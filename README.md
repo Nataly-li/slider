@@ -1,2 +1,2 @@
-# slides
+# slider
 Training Project Vladilen Minin
