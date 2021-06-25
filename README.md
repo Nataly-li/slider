@@ -1,2 +1,3 @@
 # slider
-Training Project Vladilen Minin
+## Training Project Vladilen Minin
+Imlemented by Nataliia Donchenko
